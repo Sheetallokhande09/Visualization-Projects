@@ -9,8 +9,8 @@ Built an interactive dashboard in Power BI where users could explore information
 Tools used: Power BI, Power Query, DAX, Excel
 
 2. Sales Data Survey- Power BI Project
-3. Analyzed the sales data of a company to understand the units sold (papers, chairs, phones etc), profit made, discount given, sale by region, states where the sale brought more revenue, sale and profit change over time.
-4. Steps Performed:
+Analyzed the sales data of a company to understand the units sold (papers, chairs, phones etc), profit made, discount given, sale by region, states where the sale brought more revenue, sale and profit change over time.
+Steps Performed:
 Imported data from an Excel sheet.
 Cleaned and prepared data using Power Query (removed blanks, renamed columns, fixed data types).
 Created visuals like bar charts and cards to show total sales, profit, and category performance.
